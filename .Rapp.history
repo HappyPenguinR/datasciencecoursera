@@ -1,0 +1,12 @@
+install.packages(KernSmooth)
+install.packages("KernSmooth")
+library(KernSmooth)
+getwd()
+getwd()
+source("submitscript1.R")
+submit()
+9
+submit()
+submit()
+submit()
+submit()
